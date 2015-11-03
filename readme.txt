@@ -1,5 +1,7 @@
 initial changes introduced
 
+changes made thru the  b2
+
 This sample project demonstrates the below:
 
 1.) Verifying fingerprints from file.
