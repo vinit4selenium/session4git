@@ -12,3 +12,5 @@ you create.
 
 Note:  Even though the sample enrolls a single finger per user, DigitalPersona recommends enrolling at least 2 fingers per user.  
 
+
+This is vinit
